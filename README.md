@@ -1,6 +1,8 @@
 # Convertidor de divisas
 Bryan Quisaguano
 --------------------------------
+El apk generado se encuentra en la carpeta APK del repositorio
+--------------------------
 El proyecto consta de una aplicación desarrollada en Xamarin.Forms de un convertidor de divisas, se ha implementado una página principal dando la bienvenida a la aplicación y un botón de empezar paara redirigirnos a la siguente página. 
 
 <img src="https://github.com/BryanArmando/ConvertidorDivisa/blob/master/Images/img1.jpg" alt="img1"/>
