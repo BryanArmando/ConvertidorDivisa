@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\Xamarin\AppConvertidorU\AppConvertidorU\AppConvertidorU\bin\Debug\netstandard2.0\AppConvertidorU.deps.json
+C:\Users\Usuario\Documents\Xamarin\AppConvertidorU\AppConvertidorU\AppConvertidorU\bin\Debug\netstandard2.0\AppConvertidorU.dll
+C:\Users\Usuario\Documents\Xamarin\AppConvertidorU\AppConvertidorU\AppConvertidorU\bin\Debug\netstandard2.0\AppConvertidorU.pdb
+C:\Users\Usuario\Documents\Xamarin\AppConvertidorU\AppConvertidorU\AppConvertidorU\obj\Debug\netstandard2.0\AppConvertidorU.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Xamarin\AppConvertidorU\AppConvertidorU\AppConvertidorU\obj\Debug\netstandard2.0\AppConvertidorU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Xamarin\AppConvertidorU\AppConvertidorU\AppConvertidorU\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\Documents\Xamarin\AppConvertidorU\AppConvertidorU\AppConvertidorU\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\Documents\Xamarin\AppConvertidorU\AppConvertidorU\AppConvertidorU\obj\Debug\netstandard2.0\AppConvertidorU.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Xamarin\AppConvertidorU\AppConvertidorU\AppConvertidorU\obj\Debug\netstandard2.0\AppConvertidorU.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Xamarin\AppConvertidorU\AppConvertidorU\AppConvertidorU\obj\Debug\netstandard2.0\AppConvertidorU.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Xamarin\AppConvertidorU\AppConvertidorU\AppConvertidorU\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\Documents\Xamarin\AppConvertidorU\AppConvertidorU\AppConvertidorU\obj\Debug\netstandard2.0\AppConvertidorU.dll
+C:\Users\Usuario\Documents\Xamarin\AppConvertidorU\AppConvertidorU\AppConvertidorU\obj\Debug\netstandard2.0\refint\AppConvertidorU.dll
+C:\Users\Usuario\Documents\Xamarin\AppConvertidorU\AppConvertidorU\AppConvertidorU\obj\Debug\netstandard2.0\AppConvertidorU.pdb
+C:\Users\Usuario\Documents\Xamarin\AppConvertidorU\AppConvertidorU\AppConvertidorU\obj\Debug\netstandard2.0\ref\AppConvertidorU.dll
+C:\Users\Usuario\Documents\Xamarin\AppConvertidorU\AppConvertidorU\AppConvertidorU\obj\Debug\netstandard2.0\Convertidor.xaml.g.cs

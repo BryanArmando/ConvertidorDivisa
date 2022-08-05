@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppConvertidorU.Convertidor">
+    <Grid BackgroundColor="#CEE5D0">
+        <StackLayout VerticalOptions="Center" Margin="20">
+            <Picker Title="-De moneda-"
+                    x:Name="SeleccionaMonedaInicial"
+                    BackgroundColor="#E2DCC8">
+                <Picker.Items>
+                    <x:String>Dólares</x:String>
+                    <x:String>Euros</x:String>
+                    <x:String>Pesos Colombianos</x:String>
+                    <x:String>Pesos Mexicanos</x:String>
+                    <x:String>Soles</x:String>
+                </Picker.Items>
+            </Picker>
+            <Frame HasShadow="False" CornerRadius="10">
+                <Entry Keyboard="Numeric"
+                       Placeholder="Valor a convertir"
+                       TextColor="Black"
+                       PlaceholderColor="DimGray"
+                       FontSize="Large"
+                       x:Name="txtcm"/>
+            </Frame>
+            <Picker Title="-A moneda-"
+                    x:Name="SeleccionaMonedaFinal"
+                    BackgroundColor="#E2DCC8">
+                <Picker.Items>
+                    <x:String>Dólares</x:String>
+                    <x:String>Euros</x:String>
+                    <x:String>Pesos Colombianos</x:String>
+                    <x:String>Pesos Mexicanos</x:String>
+                    <x:String>Soles</x:String>
+                </Picker.Items>
+            </Picker>
+                       
+            <Button Text="Calcular"
+                    CornerRadius="10"
+                    FontSize="Large"
+                    FontAttributes="Bold"
+                    Margin="0,20,0,0"
+                    TextTransform="None"
+                    BackgroundColor="Blue"
+                    TextColor="White"
+                    x:Name="btnCalcular"
+                    Clicked="btnCalcular_Clicked"/>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Resultado: "
+                       FontSize="Medium"
+                       FontAttributes="Bold"
+                       VerticalOptions="Center"/>
+                <Label Text="0.0"
+                       FontSize="Large"
+                       FontAttributes="Bold"
+                       VerticalOptions="Center"
+                       x:Name="reslbl"/>
+            </StackLayout>
+            <Button Text="Regresar"
+                    TextTransform="None"
+                    FontAttributes="Bold"
+                    BackgroundColor="White"
+                    HorizontalOptions="Center"
+                    CornerRadius="10"
+                    x:Name="btnVolver"
+                    Clicked="btnVolver_Clicked"/>
+           <!-- <DatePicker/>
+            <TimePicker/>   -->
+        </StackLayout>
+    </Grid>
+</ContentPage>
